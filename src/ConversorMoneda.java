@@ -30,7 +30,7 @@ public class ConversorMoneda {
 
         while (!salir) {
 
-            System.out.println("\n==== MOTORNIKO EXCHANGE ====");
+            System.out.println("\n=== MOTORNIKO EXCHANGE ===");
             System.out.println("-- Convierte cualquier moneda! --");
             System.out.println("=====================================");
             System.out.println("(1) Dólar >> Peso argentino");
